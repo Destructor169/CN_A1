@@ -83,15 +83,6 @@ These files store all relevant data required to answer the questions in this sec
 
 ---
 
-## **Execution Instructions**
-1. Ensure Wireshark, Scapy, and Matplotlib are installed.
-2. Run the script to analyze the PCAP file and generate CSV outputs.
-3. Capture live packets using Wireshark and analyze the required details.
-4. Visit the mentioned websites and extract HTTP request/response details.
-5. Document findings as per the assignment requirements.
-
----
-
 ## **Team Members**
 - **Aditya Kumar**  
 - **Mrugank Patil**  

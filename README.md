@@ -3,8 +3,8 @@
 ## Group Number: 30
 
 ## **Team Members**
-- **Aditya Kumar**  
-- **Mrugank Patil**  
+- [Aditya Kumar](aditya.kumar@iitgn.ac.n)
+- [Mrugank Patil](mrugank.patil@iitgn.ac.in)
 
 ### **PCAP File Selection Criteria**
 The PCAP file is chosen based on the formula:

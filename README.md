@@ -2,14 +2,16 @@
 
 ## Group Number: 30
 
-## **Team Members**
-- **Aditya Kumar**  
-- **Mrugank Patil**  
-
 ### **PCAP File Selection Criteria**
 The PCAP file is chosen based on the formula:
 **X = (Team ID) % 9**
 where Team ID is obtained from the Google Sheets. The corresponding PCAP file from the provided dataset is selected accordingly.
+
+---
+
+## **Team Members**
+- **Aditya Kumar**  
+- **Mrugank Patil**
 
 ---
 

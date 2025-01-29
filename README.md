@@ -1,4 +1,3 @@
-```markdown
 # README - PCAP Analysis
 
 ## Group Number: 30

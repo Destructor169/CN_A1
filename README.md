@@ -93,12 +93,8 @@ These files store all relevant data required to answer the questions in this sec
 ---
 
 ## **Team Members**
-- **[Your Name]**  
-- **[Team Member 2]**  
-- **[Team Member 3]**  
-
-(Replace with actual names)
+- **Aditya Kumar**  
+- **Mrugank Patil**  
 
 ---
-```
 

@@ -2,6 +2,10 @@
 
 ## Group Number: 30
 
+## **Team Members**
+- **Aditya Kumar**  
+- **Mrugank Patil**  
+
 ### **PCAP File Selection Criteria**
 The PCAP file is chosen based on the formula:
 **X = (Team ID) % 9**
@@ -82,10 +86,3 @@ The CSV files generated in **Part 1 - Section 3** contain:
 These files store all relevant data required to answer the questions in this section.
 
 ---
-
-## **Team Members**
-- **Aditya Kumar**  
-- **Mrugank Patil**  
-
----
-
